@@ -121,3 +121,4 @@ output
 
 .amlignore*
 model_weights
+.env
