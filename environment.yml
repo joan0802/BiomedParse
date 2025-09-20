@@ -12,14 +12,13 @@ dependencies:
   - ca-certificates=2024.7.2=h06a4308_0
   - certifi=2024.7.4=py39h06a4308_0
   - charset-normalizer=3.3.2=pyhd3eb1b0_0
-  - cuda-cudart=12.4.127=0
-  - cuda-cupti=12.4.127=0
-  - cuda-libraries=12.4.0=0
-  - cuda-nvrtc=12.4.127=0
-  - cuda-nvtx=12.4.127=0
-  - cuda-opencl=12.6.37=0
-  - cuda-runtime=12.4.0=0
-  - cuda-version=12.6=3
+  - cuda-cudart=11.5.*
+  - cuda-cupti=11.5.*  
+  - cuda-libraries=11.5.*
+  - cuda-nvrtc=11.5.*
+  - cuda-nvtx=11.5.*
+  - cuda-runtime=11.5.*
+  - cuda-version=11.5
   - ffmpeg=4.3=hf484d3e_0
   - filelock=3.13.1=py39h06a4308_0
   - freetype=2.12.1=h4a9f257_0
